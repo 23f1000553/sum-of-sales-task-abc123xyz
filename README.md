@@ -1,23 +1,28 @@
 # Sales Summary App
 
-This is a single-page site that fetches sales data from a CSV file, sums the sales column, and displays the total.
+This web application allows users to add sales data and view the total sales amount.
 
-### Features
-- Fetches sales data from a CSV file
-- Calculates and displays the total sales
+## Features
 
-### Installation & Deployment
-To deploy this app on GitHub Pages:
-1. Download or clone the repository
-2. Ensure all files are in the root directory
-3. Commit and push to your GitHub repository
-4. Go to the repository settings and set GitHub Pages source to the main branch
+- Users can add sales data including product, sales amount, and city
+- Sales summary shows the total sales amount
 
-### Technologies Used
+## Installation & Deployment
+
+1. Clone the repository
+2. Open the `index.html` file in a web browser
+3. Fill in the form to add data
+4. View the total sales amount
+
+Deployed App: [Sales Summary App](#)
+
+## Technologies Used
+
 - HTML
 - CSS
 - JavaScript
-- Bootstrap 5
+- Bootstrap
 
-### License
+## License
+
 This project is licensed under the MIT License.
